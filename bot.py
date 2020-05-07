@@ -1,4 +1,4 @@
-import discord,re,datetime,requests,os,time,pypandoc
+import discord,re,datetime,requests,os,time,pypandoc,config
 from bs4 import BeautifulSoup
 
 def convert(s):
